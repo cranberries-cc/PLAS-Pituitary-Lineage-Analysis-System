@@ -1,6 +1,6 @@
 <div align="center">
 
-# PLAS — Pituitary Lineage Analysis System
+# PALS-PitNET-Lineage-Classification
 
 **Lineage Classification of Pituitary Neuroendocrine Tumors from Whole-Slide Images  
 using Attention-Guided Graph Representation Learning**
